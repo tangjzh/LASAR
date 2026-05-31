@@ -5,6 +5,7 @@
 **CVPR 2026**
 
 [Jinzhou Tang](https://tangjzh.github.io) · Sidi Liu · Waikit Xiu · Weixing Chen · Keze Wang
+
 Sun Yat-sen University
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.16899)
@@ -37,7 +38,7 @@ This repository provides:
 |:---------|:------------|:-----|
 | Paper | LASAR + ST-CRL + MindCraft | [arXiv:2605.16899](https://arxiv.org/abs/2605.16899) |
 | Code | Training & evaluation | [github.com/tangjzh/LASAR](https://github.com/tangjzh/LASAR) |
-| MindCraft dataset | VLN-CE episodes with cognitive queries (~1k trajectories) | [🤗 `tangjzh/MindCraft`](https://huggingface.co/datasets/tangjzh/MindCraft) |
+| MindCraft dataset | VLN-CE episodes with cognitive queries (~8.2k trajectories, ~210GB) | [🤗 `TMarcus/MindCraft`](https://huggingface.co/datasets/TMarcus/MindCraft) |
 | Checkpoints | LASAR weights | [🤗 `tangjzh/LASAR-8B`](https://huggingface.co/tangjzh/LASAR-8B) *(coming soon)* |
 
 ## Installation
