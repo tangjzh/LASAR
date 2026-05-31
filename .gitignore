@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.pytest_cache/
+
+# Artifacts
+wandb/
+eval_out/
+out/
+outputs/
+*.log
+core.*
+*.pt
+*.whl
+
+# Local paths (symlink on your machine)
+ckpt/
+data/
+NaVILA-Dataset/
+
+# Habitat / sim (install separately if needed)
+evaluation/habitat-lab/
+evaluation/habitat-sim/
+evaluation/data/
+evaluation/eval_out/
+
+# Editor
+.idea/
+.DS_Store
+*.swp
+.env
+
+# Dev
+*.ipynb
+*_dev.py
+*_dev.sh
